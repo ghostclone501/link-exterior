@@ -9,10 +9,10 @@
     max-width: 1000px;
     min-width: 320px;
     margin: auto;
+    margin-top: 20%;
 }
 
 img{
-    margin-top: 20%;
     height: 50%;
     width: 100%;
     border-radius: 15px;
