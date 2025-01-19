@@ -5,11 +5,12 @@
 }
 
 .contenedor{
-    width: 75vw;
+    height: 400vw;
+    width: 90vw;
     max-width: 1000px;
     min-width: 320px;
     margin: auto;
-    margin-top: 50%;
+    margin-top: 30%;
 }
 
 img{
